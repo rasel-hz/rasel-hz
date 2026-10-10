@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Technical Skills & Tech Stack
+### 💻 Technical Skills & Tech Stack
 
 - **Languages:** Python | C# | Java | Dart
 - **AI & ML Concepts:** Computer Vision | Feature Extraction | Vector Databases | Prompt Engineering
