@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Raseel Al-Zayed 👋
 
-<!--
-**rasel-hz/rasel-hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate (First Honor Roll)** passionate about **Artificial Intelligence** and **Software Engineering**. I love transforming complex ideas into smart, efficient, and user-centric applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills & Tech Stack
+
+- **Languages:** Python | C# | Java | Dart
+- **AI & ML Concepts:** Computer Vision | Feature Extraction | Vector Databases | Prompt Engineering
+- **Frameworks & Tools:** Flutter | Django | Flask | Firebase | Git & GitHub
+
+---
+
+### 💡 Highlighted Work & Projects
+
+- 🔍 **Dhallah (ضالة):** An AI-powered application designed to match lost and found items using Computer Vision (DINOv2), Vector Search (Qdrant), and Firebase backend.
+- 🎮 **Elle's Journey:** A complete 2D adventure game built in Java from scratch—featuring custom artwork, multiple maps, and a custom AI engine for monster tracking and combat mechanics.
+
+---
+
+### 📫 Connect with Me
+
+- 💼 **LinkedIn:** [LinkedIn Profile Link](https://linkedin.com/in/raseel-alzayed)
+- 📧 **Email:** [raseelalzayed@gmail.com](mailto:raseelalzayed@gmail.com)
